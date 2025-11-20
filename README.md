@@ -106,7 +106,7 @@ Function-based structure:
 # **SCREENSHOTS OF OUTPUT (TEXT SIMULATION)**  
 (These simulate typical console output.)
 
-### **screenshot 1:Departement management**
+### **screenshot 1:main menu**
 <img width="665" height="286" alt="Screenshot 2025-11-20 212729" src="https://github.com/user-attachments/assets/413ca871-52b7-4a85-b80b-23796fe3e533" />
 
 
